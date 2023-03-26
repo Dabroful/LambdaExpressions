@@ -1,0 +1,7 @@
+D:\Разработка\C#\LambdaExpressions\bin\Debug\LambdaExpressions.exe
+D:\Разработка\C#\LambdaExpressions\bin\Debug\LambdaExpressions.pdb
+D:\Разработка\C#\LambdaExpressions\obj\Debug\LambdaExpressions.csproj.AssemblyReference.cache
+D:\Разработка\C#\LambdaExpressions\obj\Debug\LambdaExpressions.csproj.SuggestedBindingRedirects.cache
+D:\Разработка\C#\LambdaExpressions\obj\Debug\LambdaExpressions.csproj.CoreCompileInputs.cache
+D:\Разработка\C#\LambdaExpressions\obj\Debug\LambdaExpressions.exe
+D:\Разработка\C#\LambdaExpressions\obj\Debug\LambdaExpressions.pdb
